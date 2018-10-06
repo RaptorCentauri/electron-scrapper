@@ -1,0 +1,12 @@
+SET UP REDUX BEFORE ANYTHING ELSE
+
+GU
+
+
+DESCRIPTION:
+This is a GUI App made in Elecrtron
+The Main Window will consist of 2 Panes, (A File List, An info Section);
+
+DESCRIBE FILE List:
+It will have tabs for Movies, TV SHOWS
+Each Tab will

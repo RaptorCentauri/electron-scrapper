@@ -1,0 +1,40 @@
+{
+  "name": "electron-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./starter.js",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-electron": "^1.4.15",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "css-loader": "^0.28.11",
+    "electron": "^2.0.2",
+    "fs-extra": "^6.0.1",
+    "immutability-helper": "^2.7.0",
+    "mime": "^2.3.1",
+    "node-sass": "^4.9.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "thunk": "0.0.1",
+    "webpack": "^4.10.2",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
